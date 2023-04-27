@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ecomzy/static/css/main.f23e70f4.css",
+    "main.js": "/Ecomzy/static/js/main.93e44d29.js",
+    "static/media/logo.png": "/Ecomzy/static/media/logo.abe38ad162a16fe8cdda.png",
+    "index.html": "/Ecomzy/index.html",
+    "main.f23e70f4.css.map": "/Ecomzy/static/css/main.f23e70f4.css.map",
+    "main.93e44d29.js.map": "/Ecomzy/static/js/main.93e44d29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f23e70f4.css",
+    "static/js/main.93e44d29.js"
+  ]
+}
